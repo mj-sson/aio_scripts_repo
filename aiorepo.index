@@ -39,6 +39,15 @@
  "md5sum": "fc6928b51ce19573396e4bdc3e90aea0"
 },
 {
+ "file": "app-prefix-launch-search.lua",
+ "name": "App Prefix",
+ "description": "Finds apps by name prefix and auto-launches when there is exactly one match",
+ "type": "search",
+ "author": "Codex",
+ "version": "1.0",
+ "md5sum": "57f31be49b21675ffc63dc73e0bf0166"
+},
+{
  "file": "arm-ru-abc-widget.lua",
  "name": "Армянский алфавит",
  "description": "Армянский алфавит с транскрипцией",
@@ -95,7 +104,7 @@
  "version": "1.1",
  "lang": "ru",
  "root": "true",
- "md5sum": "68e71e63393b283b95260b09b337522f"
+ "md5sum": "ab663805ec030007e296bfed69d86aff"
 },
 {
  "file": "chrome-shortctus-app-widget.lua",
@@ -133,7 +142,7 @@
  "lang": "ru",
  "author": "Andrey Gavrilov",
  "version": "1.0",
- "md5sum": "6850fbe2d3798bd405198f6c7c85ea43"
+ "md5sum": "a9b15b9a74901b412296c9139e3fcbf7"
 },
 {
  "file": "dad-jokes-widget.lua",
@@ -152,7 +161,7 @@
  "foldable": "true",
  "author": "Hannu Hartikainen <hannu.hartikainen@gmail.com>",
  "version": "1.1",
- "md5sum": "7a74861fed70a387046d9d0fe27f2931"
+ "md5sum": "5c70f0c2723e50aa7dce66f64a0a9a65"
 },
 {
  "file": "enhanced-calendar-widget.lua",
@@ -162,6 +171,16 @@
  "author": "Evon Smith with code from Andrey Gavrilov's Calendar widget",
  "version": "1.4",
  "md5sum": "108d2459611dfdb9d9961f72e9eb7f4d"
+},
+{
+ "file": "facts-widget.lua",
+ "name": "Random facts",
+ "description": "Random useless facts",
+ "type": "widget",
+ "author": "Evgeny Zobnin (zobnin@gmail.com)",
+ "version": "1.0",
+ "foldable": "false",
+ "md5sum": "2d87cb119bb5c1ab8a93baf03367a916"
 },
 {
  "file": "fennel-search.lua",
@@ -287,7 +306,7 @@
  "author": "Sriram SV",
  "version": "1.0",
  "prefix": "store|ps",
- "md5sum": "f6b0b617d113b40f2f18328a6720e8aa"
+ "md5sum": "4769ad11b2346681922e802cdadaee5e"
 },
 {
  "file": "profiles-dumper-widget.lua",
@@ -325,7 +344,7 @@
  "author": "Sriram SV",
  "version": "1.0",
  "prefix": "qr",
- "md5sum": "018a5e14111da772795c276db494dee7"
+ "md5sum": "21f322216fcc5d23db135a12bdf8be79"
 },
 {
  "file": "quickactions-widget.lua",
@@ -422,7 +441,7 @@
  "author": "Sriram SV",
  "version": "1.0",
  "prefix": "tasker | Tasker | command",
- "md5sum": "258ce26b1c9877e756efdb37ca6fdef5"
+ "md5sum": "5d1657f74f6b2c15d70db321b3e35ed9"
 },
 {
  "file": "thirukkural-widget.lua",
@@ -485,7 +504,7 @@
  "version": "1.1",
  "lang": "ru",
  "author": "Andrey Gavrilov",
- "md5sum": "4f56db7826d4f52c6a4a5b5d6eeba2df"
+ "md5sum": "e5bafae556bf6a72eb9220217b2a8242"
 },
 {
  "file": "uptimerobot-2-widget.lua",
@@ -532,6 +551,6 @@
  "author": "Sriram SV",
  "version": "1.0",
  "prefix": "youtube|yt",
- "md5sum": "c6639b69b32981267d5ed5c94102ed14"
+ "md5sum": "4ae3a1a8cd65eb80dc56a3d348636b4a"
 }
 ]
